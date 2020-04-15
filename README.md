@@ -9,4 +9,4 @@ Watson Assistant for Citizens https://www.ibm.com/watson/covid-response
 
 Getting  Started with Watson Assistant https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started
 
-Custome launcher https://integrations.us-south.assistant.watson.cloud.ibm.com/web/developer-documentation/tutorials-launcher
+Custom launcher https://integrations.us-south.assistant.watson.cloud.ibm.com/web/developer-documentation/tutorials-launcher
