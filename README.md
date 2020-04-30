@@ -14,8 +14,6 @@ The links below include some examples of Watson bots on public sites & additiona
 
 
 ### Additional links for reference
-Sign up for IBM Cloud if you don't already have one using this link https://cloud.ibm.com/registration
-
-Getting  Started with Watson Assistant https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started
-
-Custom launcher https://integrations.us-south.assistant.watson.cloud.ibm.com/web/developer-documentation/tutorials-launcher
+* Sign up for IBM Cloud if you don't already have one using this link https://cloud.ibm.com/registration
+* Getting started with Watson Assistant https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started
+* Custom launcher for Watson Assistant https://integrations.us-south.assistant.watson.cloud.ibm.com/web/developer-documentation/tutorials-launcher
