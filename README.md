@@ -8,9 +8,9 @@ The links below include some examples of Watson bots on public sites & additiona
 
 
 ### Some existing COVID-10 bots 
-The City of Austin, Texas: https://www.austintexas.gov/ 
-The Czech Ministry of Healt: https://koronavirus.mzcr.cz/ 
-Poland: The Polish Ministry of Health: https://pacjent.gov.pl/ 
+* The City of Austin, Texas: https://www.austintexas.gov/ 
+* The Czech Ministry of Health: https://koronavirus.mzcr.cz/ 
+* Poland: The Polish Ministry of Health: https://pacjent.gov.pl/ 
 
 
 ### Additional links for reference
