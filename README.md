@@ -1,4 +1,9 @@
 # covid-19
+
+##Register for an IBM Cloud account
+Sign up for IBM Cloud if you don't already have one using this link https://cloud.ibm.com/registration
+
+##Create a virtual assistant following the steps in this video  
 Source &amp; links used at the IBM Cloud meetup on 16 April, 2020
 
 Some existing bots: 
@@ -9,11 +14,9 @@ The Czech Ministry of Healt: https://koronavirus.mzcr.cz/
 Poland: The Polish Ministry of Health: https://pacjent.gov.pl/ 
 
 
-Sign up for IBM Cloud https://cloud.ibm.com/registration
 
-Call for Code https://callforcode.org/
 
-Watson Assistant for Citizens https://www.ibm.com/watson/covid-response
+
 
 Getting  Started with Watson Assistant https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started
 
