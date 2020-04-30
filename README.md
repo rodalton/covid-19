@@ -1,10 +1,11 @@
-# covid-19
+# Create & demo a COVID-19 bot with Watson 
 
-##Register for an IBM Cloud account
+
+
+## Register for an IBM Cloud account
 Sign up for IBM Cloud if you don't already have one using this link https://cloud.ibm.com/registration
 
-##Create a virtual assistant following the steps in this video  
-Source &amp; links used at the IBM Cloud meetup on 16 April, 2020
+## Create a virtual assistant following the steps in this video  
 
 Some existing bots: 
 The City of Austin, Texas: https://www.austintexas.gov/ 
